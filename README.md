@@ -1,14 +1,7 @@
----
-title: "Spatial Autocorrelation Tutorial"
-author: "Frankie Pothier"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-output: pdf_document
-#output: 
-#  bookdown::html_document2:
-#    number_sections: false
-#   fig_caption: true
-#    global_numbering: true 
----
+# Spatial Autocorrelation Tutorial
+### Frankie Pothier
+### October 20th, 2024
+
 
 
 ## Introduction
