@@ -1,6 +1,6 @@
-# Spatial Autocorrelation Tutorial
+<div align="center"> # Spatial Autocorrelation Tutorial
 ### Frankie Pothier
-### October 20th, 2024
+### October 20th, 2024</div>
 
 
 
